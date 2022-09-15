@@ -1,9 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Book an appointment app
+# Doctor appointment
 
-The project we are going to build for the Final Capstone Project is based on an app to book an appointment to the doctor. We should follow the given design of the website, but we personalized the content.
-
+This is a Web application to book an appointment to the doctor. We should follow the given design of the website, but we personalized the content.
 
 ||      Landing       ||        Home        ||
 |-|----------------------|-| ----------------------|-|
@@ -26,7 +25,8 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://frontend-doctor-api.herokuapp.com/)
+<!-- [Live Demo Link](https://frontend-doctor-api.herokuapp.com/) -->
+[Live Demo Link](https://booking-doctor-appointment.netlify.app/)
 
 
 ## Back End
